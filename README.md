@@ -1,7 +1,5 @@
 ### The Snacks machine
 
-The new snacks machine needs to be programmed before it operates and starts serving the employees some delightful snacks.
-
 The process to buy a snack involves the following steps:
 
 1- The snacks machine will start with a set of snacks and will have 0 money inside it.
